@@ -1,2 +1,2 @@
-# predict-orange-juice-sales
-Applying statistical learning methods (Regression, Random Forest etc.) in the UW ECON 487 Project
+# Predict Orange Juice Sales
+Applying statistical learning methods (regression, decision trees, random forest) in the UW ECON 487 project
